@@ -1,0 +1,6 @@
+beans\HolaMundoEjbRemote.class
+beans\OperacionesMatematicasEjbImpl.class
+test\TestHolaMundoEJB.class
+beans\HolaMundoEjbImpl.class
+test\TestOperacionesMatematicasEJB.class
+beans\OperacionesMatematicasEjbRemote.class
